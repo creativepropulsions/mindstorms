@@ -1,3 +1,13 @@
 ### FLL 2016
 
-Instructions 
+These are the guidelines and building instructions for First Lego League challenge 2016
+
+---
+
+FIRST LEGO League is an alliance between
+FIRST & the LEGO Group
+For Inspiration and Recognition of Science and Technology
+
+See [firstlegoleague.org](http://www.firstlegoleague.org/challenge)
+
+Download other challenges at http://www.firstlegoleague.org/past-challenges
