@@ -1,13 +1,11 @@
 ### FLL 2016
 
-These are the guidelines and building instructions for First Lego League challenge 2016
+These pdf documents are the guidelines and building instructions for First Lego League challenge 2016
 
----
+Read more about the 2016 Challenge
 
-FIRST LEGO League is an alliance between
-FIRST & the LEGO Group
-For Inspiration and Recognition of Science and Technology
+ - [Animal allies challenge document](http://www.firstlegoleague.org/sites/default/files/animal-allies/animal-allies-challenge-document.pdf)
 
-See [firstlegoleague.org](http://www.firstlegoleague.org/challenge)
+ - [Animal allies challenge guide](http://www.firstlegoleague.org/sites/default/files/animal-allies/animal-allies-challenge-guide.pdf)
 
-Download other challenges at http://www.firstlegoleague.org/past-challenges
+
